@@ -357,3 +357,8 @@ label{
   }
 }
 
+tr:nth-child(odd){background-color: #ccc8c8;}
+
+tr:first-child:hover{background-color: #948f8f;}
+
+tr:hover{background-color: green;}
